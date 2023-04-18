@@ -1,0 +1,4 @@
+span[slate-type="mention"] > :nth-child(1) {
+  position: absolute;
+  height: 0px;
+}

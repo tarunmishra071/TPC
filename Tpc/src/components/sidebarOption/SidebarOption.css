@@ -1,0 +1,67 @@
+.sidebarOption {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  padding-left: 2px;
+  cursor: pointer;
+}
+
+.sidebarOption:hover {
+  background-color: #340e36;
+  opacity: 0.9;
+}
+
+.sidebarOption__icon {
+  padding: 10px;
+  font-size: 15px !important;
+  opacity: 0.6;
+}
+
+.sidebarOption__channel {
+  padding: 10px 0;
+}
+
+.sidebarOption__hash {
+  padding: 10px;
+  padding-left: 12px;
+}
+
+.sidebarOption > h3 {
+  font-weight: 400;
+  opacity: 0.6;
+}
+
+.sidebarOption__sub {
+  margin-left: 10px;
+}
+
+.isOnline > .MuiSvgIcon-root {
+  color: green;
+}
+
+.sidebarAvatar {
+  position: relative;
+}
+
+.sidebarAvatar > .MuiAvatar-root {
+  border-radius: 5px;
+  width: 20px;
+  height: 20px;
+  margin: 5px;
+}
+
+.sidebarAvatar > .MuiSvgIcon-root {
+  font-size: 14px;
+  cursor: pointer;
+  position: absolute;
+  top: 18px;
+  left: 18px;
+}
+
+.user__online {
+  color: green;
+}
+
+.user__offline {
+  color: gray;
+}

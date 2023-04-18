@@ -1,0 +1,15 @@
+.rich__text__editor {
+  height: 80px;
+  width: 97%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+.rich__text__editor::-webkit-scrollbar {
+  width: 0.8em;
+}
+
+.rich__text__editor::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: none;
+  border-radius: 9px;
+}

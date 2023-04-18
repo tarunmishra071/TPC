@@ -1,0 +1,40 @@
+.user__chatInput > form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: calc(100% - 40px);
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  margin: 20px;
+}
+.user__chatInput > form > input {
+  width: 95%;
+  padding: 20px;
+  margin: 10px;
+  display: block;
+}
+
+.user__chatInput > form > input:focus {
+  outline: none;
+}
+
+.emoji__container {
+  position: relative;
+  top: -442px;
+  left: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.submit__button {
+  float: right;
+  margin-right: 20px;
+}
+
+.toolbar {
+  width: calc(95% + 60px);
+}

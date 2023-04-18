@@ -1,0 +1,41 @@
+<mxfile host="65bd71144e">
+    <diagram id="hAnp-cAJ_cbQ0bjhc2yA" name="Page-1">
+        <mxGraphModel dx="557" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Login" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="170" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="370" y="260" as="sourcePoint"/>
+                        <mxPoint x="280" y="200" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="home page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" width="360" height="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="header" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="10" width="240" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="side bar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="10" width="120" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="main body" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="80" width="180" height="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;ul&gt;&lt;li&gt;search bar&lt;/li&gt;&lt;li&gt;avatar&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="5" width="100" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;ul&gt;&lt;li&gt;friends&lt;/li&gt;&lt;li&gt;channels&lt;/li&gt;&lt;li&gt;direct messages&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="40" width="100" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;ul&gt;&lt;li&gt;message history&lt;/li&gt;&lt;li&gt;input box&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="410" y="100" width="100" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
